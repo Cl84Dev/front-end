@@ -1,0 +1,15 @@
+.user {
+  max-width: 500px;
+}
+
+.buttons {
+  width: 80%;
+}
+
+.edit {
+  width: 80%;
+}
+
+input {
+  margin: 10px 0;
+}
